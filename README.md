@@ -19,7 +19,7 @@
   <span><img src="https://img.shields.io/badge/Saga-89d96d?style=flat&logo=redux-saga&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next-dot-js&logoColor=white"/></span><br/>
 - Back-end :
-  <span><img src="https://img.shields.io/badge/MySQL-fcf9f9?style=flat&logo=MySQL&logoColor=#007396"/></span><br/>
+  <span><img src="https://img.shields.io/badge/MySQL-007396?style=flat&logo=MySQL&logoColor=white"/></span><br/>
 - Deployment :
   <span><img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span><br/>
